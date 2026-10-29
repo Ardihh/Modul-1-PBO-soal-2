@@ -1,0 +1,45 @@
+=======================================
+LAPORAN REIMBURSEMENT PERJALANAN DINAS
+=======================================
+Nama Karyawan   : Bayu
+ID              : DIR01
+Jabatan         : Direktur
+Lama Dinas      : 4 hari
+Tujuan          : Luar Kota
+Uang Saku       : Rp 2.000.000
+Penginapan      : Rp 3.600.000
+Transport + Sewa Mobil : Rp 4.500.000
+Total Reimburse : Rp 10.100.000
+---------------------------------------
+Nama Karyawan   : Maya
+ID              : MGR01
+Jabatan         : Manajer
+Lama Dinas      : 3 hari
+Tujuan          : Luar Kota
+Uang Saku       : Rp 1.050.000
+Penginapan      : Rp 1.600.000
+Biaya Transport : Rp 1.800.000
+Total Reimburse : Rp 4.450.000
+---------------------------------------
+Nama Karyawan   : Fajar
+ID              : STF01
+Jabatan         : Staf
+Lama Dinas      : 5 hari
+Tujuan          : Luar Kota
+Uang Saku       : Rp 1.000.000
+Penginapan      : Rp 1.600.000
+Biaya Transport : Rp 1.200.000
+Total Reimburse : Rp 3.800.000
+---------------------------------------
+Nama Karyawan   : Nadia
+ID              : STF02
+Jabatan         : Staf
+Lama Dinas      : 2 hari
+Tujuan          : Dalam Kota
+Uang Saku       : Rp 400.000
+Penginapan      : Rp 0 (tidak menginap)
+Biaya Transport : Rp 150.000
+Total Reimburse : Rp 550.000
+=======================================
+TOTAL SELURUHNYA : Rp 18.900.000
+=======================================

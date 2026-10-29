@@ -1,0 +1,45 @@
+=======================================
+BUSINESS TRIP REIMBURSEMENT REPORT
+=======================================
+Employee Name   : Bayu
+ID              : DIR01
+Position        : Director
+Trip Duration   : 4 days
+Destination     : Out of Town
+Daily Allowance : Rp 2.000.000
+Lodging         : Rp 3.600.000
+Transport + Car Rental : Rp 4.500.000
+Total Reimbursement : Rp 10.100.000
+---------------------------------------
+Employee Name   : Maya
+ID              : MGR01
+Position        : Manager
+Trip Duration   : 3 days
+Destination     : Out of Town
+Daily Allowance : Rp 1.050.000
+Lodging         : Rp 1.600.000
+Transport Cost  : Rp 1.800.000
+Total Reimbursement : Rp 4.450.000
+---------------------------------------
+Employee Name   : Fajar
+ID              : STF01
+Position        : Staff
+Trip Duration   : 5 days
+Destination     : Out of Town
+Daily Allowance : Rp 1.000.000
+Lodging         : Rp 1.600.000
+Transport Cost  : Rp 1.200.000
+Total Reimbursement : Rp 3.800.000
+---------------------------------------
+Employee Name   : Nadia
+ID              : STF02
+Position        : Staff
+Trip Duration   : 2 days
+Destination     : In Town
+Daily Allowance : Rp 400.000
+Lodging         : Rp 0 (no overnight stay)
+Transport Cost  : Rp 150.000
+Total Reimbursement : Rp 550.000
+=======================================
+GRAND TOTAL     : Rp 18.900.000
+=======================================
