@@ -33,6 +33,7 @@ public class Direktur extends Karyawan {
 
     @Override
     public double hitungPenginapan() {
-        return Math.max(getLamaDinas() - 1, 0) * 1200000;
+        int malam = getLamaDinas() - 1;
+        return (malam > 0 ? malam : 0) * 1200000;
     }
 }

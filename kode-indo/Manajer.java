@@ -10,6 +10,7 @@ public class Manajer extends Karyawan {
 
     @Override
     public double hitungPenginapan() {
-        return Math.max(getLamaDinas() - 1, 0) * 800000;
+        int malam = getLamaDinas() - 1;
+        return (malam > 0 ? malam : 0) * 800000;
     }
 }

@@ -10,6 +10,7 @@ public class Staff extends Employee {
 
     @Override
     public double calculateLodging() {
-        return Math.max(getTripDuration() - 1, 0) * 400000;
+        int night = getTripDuration() - 1;
+        return (night > 0 ? night : 0) * 400000;
     }
 }
